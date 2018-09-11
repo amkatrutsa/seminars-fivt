@@ -4,7 +4,7 @@ Seminars on optimization methods
 ## Syllabus
 
 1. [Introduction. Convex sets and cones](01-IntroConvex/Seminar1.pdf)
-2. Convex functions
+2. [Convex functions](02-MatrixCalculus/Seminar2.pdf)
 3. Convex optimization problems
 4. KKT optimality conditions
 5. Duality
