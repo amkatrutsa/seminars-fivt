@@ -5,7 +5,7 @@ Seminars on optimization methods
 
 1. [Introduction. Convex sets and cones](01-IntroConvex/Seminar1.pdf)
 2. [Matrix calculus](02-MatrixCalculus/Seminar2.pdf)
-3. Convex optimization problems
+3. [Convex functions](03-ConvexFunctions/Seminar3.pdf)
 4. KKT optimality conditions
 5. Duality
 6. Packages for solving convex optimization problems
