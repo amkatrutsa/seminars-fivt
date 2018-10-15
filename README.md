@@ -9,7 +9,7 @@ Seminars on optimization methods
 4. [KKT optimality conditions](04-KKT/Seminar4.pdf)
 5. [Duality](05-Duality/Seminar5.pdf)
 6. Midterm
-7. Introduction to numerical optimization. Gradient descent and lower bounds concept
+7. [Introduction to numerical optimization and gradient descent](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/06-GD/Seminar6.ipynb)
 8. Beyond gradient descent: heavy ball, conjugate gradient and fast gradient methods
 9. Stochastic first-order methods
 10. Newton and quasi-Newton methods
