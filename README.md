@@ -10,7 +10,7 @@ Seminars on optimization methods
 5. [Duality](05-Duality/Seminar5.pdf)
 6. Midterm
 7. [Introduction to numerical optimization and gradient descent](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/06-GD/Seminar6.ipynb)
-8. Beyond gradient descent: heavy ball, conjugate gradient and fast gradient methods
+8. [Beyond gradient descent: heavy ball, conjugate gradient and fast gradient methods](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/07-AccGD/Seminar7.ipynb)
 9. Stochastic first-order methods
 10. Newton and quasi-Newton methods
 11. Projected gradient method, Frank-Wolfe method and introduction to proximal methods
