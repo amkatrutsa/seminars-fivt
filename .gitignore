@@ -242,3 +242,4 @@ TSWLatexianTemp*
 *.spl
 
 .ipynb_checkpoints/
+.DS_Store
