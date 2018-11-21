@@ -14,6 +14,6 @@ Seminars on optimization methods
 9. Stochastic first-order methods
 10. [Newton](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/09-Newton/Seminar9a.ipynb) and [quasi-Newton](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/09-Newton/Seminar9b.ipynb) methods
 11. [Projected gradient method and Frank-Wolfe method](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/10-SimpleSets/Seminar10.ipynb)
-12. Linear programming problem
+12. [Linear programming problem](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/11-LinProg/Seminar11.ipynb)
 13. Semidefinite programming
 14. Interior point methods and concept of self-concordance functions 
