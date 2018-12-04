@@ -16,4 +16,4 @@ Seminars on optimization methods
 11. [Projected gradient method and Frank-Wolfe method](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/10-SimpleSets/Seminar10.ipynb)
 12. [Linear programming problem](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/11-LinProg/Seminar11.ipynb) + [examples of tableau simplex method](./11-LinProg/examples.pdf)
 13. Semidefinite programming
-14. Interior point methods and concept of self-concordance functions 
+14. [Intro to interior point methods](./13-InteriorPoint/Seminar13.ipynb)
