@@ -15,5 +15,5 @@ Seminars on optimization methods
 10. [Newton](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/09-Newton/Seminar9a.ipynb) and [quasi-Newton](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/09-Newton/Seminar9b.ipynb) methods
 11. [Projected gradient method and Frank-Wolfe method](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/10-SimpleSets/Seminar10.ipynb)
 12. [Linear programming problem](https://nbviewer.jupyter.org/github/amkatrutsa/seminars-fivt/blob/master/11-LinProg/Seminar11.ipynb) + [examples of tableau simplex method](./11-LinProg/examples.pdf)
-13. Semidefinite programming
+13. [Semidefinite programming](./12-SDP/Seminar12.ipynb)
 14. [Intro to interior point methods](./13-InteriorPoint/Seminar13.ipynb)
